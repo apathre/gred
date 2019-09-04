@@ -1,2 +1,0 @@
-# gred
-Created with CodeSandbox
